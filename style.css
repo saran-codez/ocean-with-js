@@ -420,7 +420,7 @@ body {
 }
 
 .sun {
-  background: white;
+  background: rgb(237, 6, 6);
   border-radius: 50%;
   width: 20vmin;
   height: 20vmin;
